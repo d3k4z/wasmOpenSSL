@@ -1,3 +1,6 @@
 This software comes with no warranties and support. Compilation of the ported OpenSSL library might be unsuccesful with untested versions of the standard library.
+<<<<<<< HEAD
 
 This is a source-code build of OpenSSL using the [Emscripten SDK](https://emscripten.org/docs/getting_started/downloads.html). The test suite is still under development. Until it is complete, the author makes no claims concerning accuracy or security. Use at your own risk.
+=======
+>>>>>>> 71613a54050f304bb89d717859527db0190d396b
